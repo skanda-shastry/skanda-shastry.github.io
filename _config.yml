@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: http://skanda-shastry.github.io/iCard/ 
 
-url: https://koppl.in/indigo
+url: https://skanda-shastry.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -59,7 +59,7 @@ authors:
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/any.jpg
-        twitter: johndoe
+        twitter: skanda_ms
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
