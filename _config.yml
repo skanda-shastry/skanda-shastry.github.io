@@ -22,7 +22,7 @@ url: https://skanda-shastry.github.io
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-64473606-2'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -50,7 +50,7 @@ stackoverflow: 10340005/skanda-shastry
 # reddit: username
 medium: skanda_shastry
 # vimeo: myvimeo
-tumblr: skanda-shastry
+#tumblr: skanda-shastry
 email: skanda.shastry02@gmail.com
 
 authors:
