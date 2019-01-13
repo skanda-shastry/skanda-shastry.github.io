@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<h2>  20 SECOND BIO <h2/>
+<h2>  20 SECOND BIO </h2>
 <p>Hi! Hello! Ola! </p>
 <p>
 A Passionately Curious guy! keen to learn the new things which will help in Professional & personal growth. <br/> 
