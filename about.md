@@ -8,23 +8,25 @@ layout: page
 <p>Hi! Hello! Ola!! 😎 </p>
 <p>
 A Passionately Curious guy!💡  keen to learn the new things which will help in Professional & personal growth 👓  . <br/> 
-An Computer Science graduate,🎓  currently associated with an E-commerce Comapnay, having 4+ years of product building expreience in various domain.
-<br/>
+<!-- An Computer Science graduate,🎓  currently associated with an E-commerce Comapnay, having 4+ years of product building expreience in various domain.
+<br/> -->
 ✔ Loves to understand, build and operate HA Distributed systems. <br/>
-✔ Working as Platform Operational Engineer role to create an data models, DBA best practices. <br/> 
+<!--✔ Working as Platform Operational Engineer role to create an data models, DBA best practices. <br/>  -->
 ✔ Proficient problem solving, troubleshooting,transform the business requirement into tech feasibility. <br/>
 
-<br/>
 
+<br/>
+<!--
 Previously work as Developer in Exceleron which provide an solution of smart metering grid & utility provider in North American region. 
-<br/>
+<br/> -->
 
+<!--
 <br/>
 In 2013, I graduated from Jawaharlal Nehru National College of Engineering (JNNCE) Shimoga with a B.E. in Computer Science ‍💻 .  
 <br/>
 Through out college I was an active member of Computer Science Club, I learned a ton while I was there, both through personal projects and just being in an atmosphere of learning and (more importantly) doing.
 <br/>
-
+-->
 <br/>
 My strengths are my diversity !! 👀  <br/>
 <i>Apart from current work, I love to Analyze/Play with data, Eager to learn the Data visualization techniques 
