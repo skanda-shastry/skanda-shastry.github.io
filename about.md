@@ -32,10 +32,10 @@ My strengths are my diversity !! 👀  <br/>
 <i>Apart from current work, I love to Analyze/Play with data, Eager to learn the Data visualization techniques 
 which eventually took me into the Product Design via Design thinking Methodology.
 <br/>
-<br/>
+<!-- <br/>
  Recently completed Course in Operational, People & Stragic management in IIM Banaglore! 
 Which gives an world class exposure & first hand experience in how to lead the team !!
-<i/><br/>
+<i/><br/> -->
 <br/>
 Finally, <br/>
 * Frequent visitor on Tweeter 📲 <br/>
